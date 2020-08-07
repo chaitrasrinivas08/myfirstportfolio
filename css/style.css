@@ -1,0 +1,23 @@
+#main-header img {
+    width: 100%;
+    
+}
+
+.bg-black {
+    color: #fff;
+    background: #333;
+}
+
+#main-header .menu-item{
+    width: 25%;
+}
+
+#main-header .profile-img{
+    height: 272px;
+    
+}
+
+.menu-item:hover{
+    cusor:pointer;
+    opacity: 0.8;
+}
